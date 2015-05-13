@@ -13,3 +13,4 @@ Collection of applications, libraries, scripts, etc. using the [Dropbox API](htt
 * [iOS](https://www.dropbox.com/developers/core/sdks/ios)
 * [OS X](https://www.dropbox.com/developers/core/sdks/osx)
 * [Other](https://www.dropbox.com/developers/core/sdks/other)
+* [JavaScript (Unofficial)](https://github.com/dropbox/dropbox-js)
