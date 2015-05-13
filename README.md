@@ -1,6 +1,6 @@
 # Dropbox
 
-Collection of applications, libraries, scripts, etc. using the [Dropbox API](https://www.dropbox.com/developers).
+A collection of applications, libraries, scripts, etc. using the [Dropbox API](https://www.dropbox.com/developers).
 
 
 ## Core API SDKs
